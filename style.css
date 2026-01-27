@@ -1,9 +1,19 @@
 body{
     background-color: black;
-    height:100vh;
-    align-items: center;
-    color:white;
-    font-size: 20px;
-    display: flex;
-    justify-content: center;
+    color: white;
+}
+#red{
+    background-color: red
+}
+#orange{
+    background-color: orange;
+}
+#pink{
+    background-color: pink;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
 }
